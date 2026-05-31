@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfender",
+        "uuid": 18738400,
+        "checksum": "yprwme"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
